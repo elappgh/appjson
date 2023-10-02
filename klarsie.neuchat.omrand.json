@@ -61,7 +61,7 @@
         
     },
     "Facebook": {
-        "IsOn": true,
+        "IsOn": false,
         "Banner": "826679171300438_1284668872168130",
         "Inter": "826679171300438_1284668938834790",
         "Native": "826679171300438_1284669018834782",
@@ -75,7 +75,7 @@
         "Reward": "ac0511a6c3e649fb"
     },
     "yandex": {
-        "IsOn": true,
+        "IsOn": false,
         "Banner": "R-M-1651284-1",
         "Inter": "R-M-1651284-3",
         "Native": "R-M-DEMO-native-i",
