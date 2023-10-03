@@ -75,7 +75,7 @@
         "Reward": "ac0511a6c3e649fb"
     },
     "yandex": {
-        "IsOn": true,
+        "IsOn": false,
         "Banner": "R-M-1651284-1",
         "Inter": "R-M-1651284-3",
         "Native": "R-M-DEMO-native-i",
