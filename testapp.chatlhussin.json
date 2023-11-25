@@ -4,9 +4,9 @@
     "NewAppLink": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends",
     "IsAppOn": true,
     "UnitType": {
-        "BannerType": "",
-        "InterType": "yandex",
-        "NativeType": "",
+        "BannerType": "Facebook",
+        "InterType": "Facebook",
+        "NativeType": "Facebook",
         "rewardType": ""
     },
     "Cpa": {
@@ -61,7 +61,7 @@
         
     },
     "Facebook": {
-        "IsOn": false,
+        "IsOn": true,
         "Banner": "871194687873748_871195204540363",
         "Inter": "871194687873748_871195307873686",
         "Native": "871194687873748_871195461207004",
@@ -75,7 +75,7 @@
         "Reward": "ac0511a6c3e649fb"
     },
     "yandex": {
-        "IsOn": true,
+        "IsOn": false,
         "Banner": "R-M-1651284-1",
         "Inter": "R-M-1651284-3",
         "Native": "R-M-DEMO-native-i",
