@@ -5,7 +5,7 @@
     "IsAppOn": true,
     "UnitType": {
         "BannerType": "",
-        "InterType": "",
+        "InterType": "yandex",
         "NativeType": "",
         "rewardType": ""
     },
