@@ -4,9 +4,9 @@
     "NewAppLink": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends",
     "IsAppOn": true,
     "UnitType": {
-        "BannerType": "yandex",
-        "InterType": "yandex",
-        "NativeType": "yandex",
+        "BannerType": "",
+        "InterType": "",
+        "NativeType": "",
         "rewardType": ""
     },
     "Cpa": {
