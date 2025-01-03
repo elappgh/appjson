@@ -76,10 +76,10 @@
     },
     "yandex": {
         "IsOn": false,
-        "Banner": "demo-banner-yandex",
-        "Inter": "demo-interstitial-yandex",
-        "Native": "demo-native-content-yandex",
-        "Reward": "demo-rewarded-yandex"
+        "Banner": "",
+        "Inter": "",
+        "Native": "",
+        "Reward": ""
     },
     "StartApp": {
         "IsOn": false,
